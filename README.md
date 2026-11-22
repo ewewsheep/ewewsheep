@@ -1,11 +1,6 @@
 <div align="center">
 
-  <h1>Jack | Developer</h1>
-  <h3>Software Developer • Web Developer • Technology Enthusiast</h3>
-
-  <p>
-    Building projects, experimenting with technology and learning new things.
-  </p>
+  <h1>Garfield11 | Developer</h1>
 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
@@ -17,12 +12,6 @@
 
 <hr>
 
-<h2>About Me</h2>
-
-<p>
-  I'm a developer interested in creating useful software, websites and applications.
-  I enjoy experimenting with JavaScript, building projects and learning how technology works.
-</p>
 
 <ul>
   <li>Currently developing personal projects</li>
@@ -45,18 +34,10 @@
 <h3>CAP11</h3>
 <p>A community-focused web platform built with JavaScript, Node.js and Firebase.</p>
 
-<h3>Desktop Portal</h3>
+<h3>Desktop Portal (coming soon)</h3>
 <p>A desktop application designed to organise files, links and useful information.</p>
 
 <hr>
-
-<h2>GitHub Statistics</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Garfield11&show_icons=true&theme=github_dark">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garfield11&layout=compact&theme=github_dark">
-</div>
 
 <hr>
 
