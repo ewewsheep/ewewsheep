@@ -12,15 +12,6 @@
 
 <hr>
 
-
-<ul>
-  <li>Currently developing personal projects</li>
-  <li>Interested in desktop applications and web development</li>
-  <li>Enjoy building tools and experimenting with new ideas</li>
-</ul>
-
-<hr>
-
 <h2>Languages & Technologies</h2>
 
 <div align="center">
