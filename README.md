@@ -27,12 +27,3 @@
 
 <h3>Desktop Portal (coming soon)</h3>
 <p>A desktop application designed to organise files, links and useful information.</p>
-
-<hr>
-
-<hr>
-
-<div align="center">
-  <p>Thanks for visiting my profile.</p>
-  <p>Created by Jack</p>
-</div>
