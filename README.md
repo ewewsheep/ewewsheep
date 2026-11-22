@@ -20,8 +20,8 @@
 
 <hr>
 <h2>My groups:</h2><br>
-<a href="https://cap11.co.uk/agency.html">cap11 agency</a>
-<a href="htps://cap11.co.uk/anchor.html">Anchor gaming group</a>
+<a href="https://cap11.co.uk/agency.html">cap11 agency</a><br>
+<a href="https://cap11.co.uk/anchor.html">Anchor gaming group</a>
 <hr>
 
 <h2>My Projects</h2>
