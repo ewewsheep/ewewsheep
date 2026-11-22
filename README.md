@@ -19,6 +19,10 @@
 </div>
 
 <hr>
+<h2>My groups:</h2><br>
+<a href="cap11.co.uk/agency.html">cap11 agency</a>
+<a href="cap11.co.uk/anchor.html">Anchor gaming group</a>
+<hr>
 
 <h2>My Projects</h2>
 
